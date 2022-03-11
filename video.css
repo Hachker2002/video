@@ -1,0 +1,27 @@
+.kod{
+    color: red;text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: black;
+    border: 10px;
+    padding: 10px;
+    width: auto;
+    border-radius: 50px;
+    margin-left: auto;
+    height: auto;
+    margin-top: 30px;
+
+}
+video{
+    border-radius: 30px;
+    margin: 50px;
+    display: flex;
+    height: 200px;
+    width: 320px;
+    size: 10px;
+    border: 3px solid rgb(5, 5, 5);
+    border-width: 5px;
+
+}
+body{
+    background-color: rgb(68, 78, 78);
+}
